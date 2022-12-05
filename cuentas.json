@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "usuario" : "luisda",
+      "pass" : "123123",
+      "dir" : "/home/luisda/Protocolos/ProyectoArchivos/luisda/"
+    },
+    {
+      "usuario" : "jessica",
+      "pass" : "123456",
+      "dir" : "/home/luisda/Protocolos/ProyectoArchivos/jessica/"
+    }
+  ]
+}
